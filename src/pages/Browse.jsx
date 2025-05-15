@@ -1,7 +1,11 @@
 import React from "react";
 
 const Browse = () => {
-	return <div>Browse</div>;
+  return (
+    <section>
+      <div></div>
+    </section>
+  );
 };
 
 export default Browse;
