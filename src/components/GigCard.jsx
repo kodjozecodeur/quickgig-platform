@@ -1,11 +1,11 @@
-import React from "react";
+// import React from "react";
 
-const GigCard = () => {
-  return (
-    <div className="h-full flex flex-col">
-      <div></div>
-    </div>
-  );
-};
+// const GigCard = () => {
+//   return (
+//     <div className="h-full flex flex-col">
+//       <div></div>
+//     </div>
+//   );
+// };
 
-export default GigCard;
+// export default GigCard;
