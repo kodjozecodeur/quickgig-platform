@@ -29,7 +29,7 @@ A minimalist gig listing platform where users can browse freelance tasks by cate
 > ![Homepage Screenshot](./screenshots/homepage.png)
 
 > 🧾 Gig Page
-> ![Gig Detail Screenshot](./screenshots/gigspage.png.png)
+> ![Gig Detail Screenshot](./screenshots/gigspage.png)
 
 ---
 
