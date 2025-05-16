@@ -1,12 +1,48 @@
-# React + Vite
+# GigBoard 🎯
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimalist gig listing platform where users can browse freelance tasks by category, budget, and estimated time. Built with **React** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🔍 Filter gigs by **category**, **budget**, and **time estimate**
+- 🧾 View gig **details** on a dedicated page
+- 📧 "Apply Now" reveals **contact information** of the client
+- 💡 Clean, responsive design using **TailwindCSS**
+- ⚡ Optimized for quick navigation and user experience
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧱 Tech Stack
+
+- **React** — Frontend library
+- **React Router** — For navigation
+- **Tailwind CSS** — Utility-first styling
+- **Vite / CRA** — (Replace this with what you actually used)
+
+---
+
+## 🖼 Screenshots
+
+> 🏠 Home Page  
+> ![Homepage Screenshot](./screenshots/homepage.png)
+
+> 🧾 Gig Page
+> ![Gig Detail Screenshot](./screenshots/gigspage.png.png)
+
+---
+
+## 🚀 Getting Started
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/your-username/gigboard.git
+
+# 2. Install dependencies
+cd gigboard
+npm install
+
+# 3. Run the app
+npm run dev # or npm start
+```
